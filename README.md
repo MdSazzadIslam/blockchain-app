@@ -18,7 +18,7 @@
 
 # Instructions to Run This
 
-> git clone https://github.com/NuriCareers/Md-Sazzadul-Coding-Challenge
+> git clone https://github.com/blockchain-app/Md-Sazzadul-Coding-Challenge
 
 > open the project in vs code or any editor of your favorite
 
