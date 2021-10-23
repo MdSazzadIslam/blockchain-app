@@ -18,7 +18,7 @@
 
 # Instructions to Run This
 
-> git clone https://github.com/blockchain-app/Md-Sazzadul-Coding-Challenge
+> git clone https://github.com/MdSazzadIslam/blockchain-app.git
 
 > open the project in vs code or any editor of your favorite
 
@@ -46,5 +46,3 @@
 
 > npm run build - for production
 
-# Note
-I want to implement pagination in Backend but couldn't since I don't find any pageNo or limit or pageSize in API.
